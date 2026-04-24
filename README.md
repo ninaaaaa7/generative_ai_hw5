@@ -2,7 +2,7 @@
 
 ## Video Walkthrough
 
-> **[Add your video link here]**
+> **[Video Walkthrough](https://youtu.be/eMAeNV20vdw)**
 
 ---
 
