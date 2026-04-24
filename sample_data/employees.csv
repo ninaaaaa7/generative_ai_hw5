@@ -1,0 +1,26 @@
+id,name,department,salary,age,email,hire_date,performance_score
+1,Alice Chen,Engineering,95000,29,alice@example.com,2021-03-15,4.5
+2,Bob Smith,Marketing,72000,34,bob@example.com,2019-07-01,3.8
+3,Carol Davis,Engineering,102000,41,carol@example.com,2017-11-20,4.9
+4,Dan Lee,HR,58000,27,dan@example.com,2022-01-10,3.2
+5,Eva Moore,Engineering,98000,36,,2020-05-22,4.1
+6,Frank Wong,Marketing,67000,31,frank@example.com,2021-09-14,3.5
+7,Grace Kim,Sales,81000,29,grace@example.com,2020-11-03,4.4
+8,Henry Park,Engineering,115000,45,henry@example.com,2015-06-30,4.7
+9,Isabel Torres,HR,55000,26,,2023-02-01,3.0
+10,James Wilson,Sales,76000,38,james@example.com,2018-08-19,3.9
+11,Karen Brown,Marketing,69000,33,karen@example.com,2021-04-05,3.6
+12,Leo Zhang,Engineering,110000,40,leo@example.com,2016-12-12,4.8
+13,Mia Patel,Sales,78000,30,mia@example.com,2020-07-28,4.2
+14,Noah Adams,HR,52000,24,,2023-06-15,2.8
+15,Olivia Scott,Engineering,99000,37,olivia@example.com,2019-03-07,4.3
+16,Paul Martinez,Sales,74000,32,paul@example.com,2021-10-20,3.7
+17,Quinn Johnson,Marketing,71000,35,quinn@example.com,2020-02-14,3.4
+18,Rachel White,Engineering,450000,39,rachel@example.com,2018-05-11,4.6
+19,Sam Taylor,HR,60000,28,sam@example.com,2022-08-09,3.3
+20,Tina Harris,Sales,83000,31,tina@example.com,2019-12-03,4.0
+21,Uma Clark,Engineering,97000,43,uma@example.com,2016-04-25,4.4
+22,Victor Lewis,Marketing,,29,victor@example.com,2022-03-18,3.1
+23,Wendy Robinson,Sales,79000,36,wendy@example.com,2020-09-30,4.1
+24,Xander Walker,HR,57000,25,,2023-04-12,2.9
+25,Yara Allen,Engineering,105000,38,yara@example.com,2017-08-08,4.7

@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python .agents/skills/csv-profiler/scripts/profile_csv.py sample_data/employees.csv)",
+      "Bash(echo \"a,b,c\")",
+      "Bash(python .agents/skills/csv-profiler/scripts/profile_csv.py /tmp/empty_body.csv)",
+      "Bash(python .agents/skills/csv-profiler/scripts/profile_csv.py sample_data/employees.csv --output json)",
+      "Bash(python -m json.tool)",
+      "Bash(python .agents/skills/csv-profiler/scripts/profile_csv.py /nonexistent/file.csv)",
+      "Bash(echo \"Exit: $?\")",
+      "Bash(gh auth *)",
+      "Bash(git -C \"/Users/wangyijing/Desktop/Generative AI/HW5\" init)",
+      "Bash(git -C \"/Users/wangyijing/Desktop/Generative AI/HW5\" add .)",
+      "Bash(git -C \"/Users/wangyijing/Desktop/Generative AI/HW5\" status)"
+    ]
+  }
+}
